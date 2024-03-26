@@ -67,7 +67,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '460350402939',
     projectId: 'gosra-app',
     storageBucket: 'gosra-app.appspot.com',
-    iosClientId: '460350402939-qim41udo3o2tnl167mepq6np8thr52r9.apps.googleusercontent.com',
+    iosClientId:
+        '460350402939-qim41udo3o2tnl167mepq6np8thr52r9.apps.googleusercontent.com',
     iosBundleId: 'com.example.gosraApp',
   );
 
@@ -77,7 +78,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '460350402939',
     projectId: 'gosra-app',
     storageBucket: 'gosra-app.appspot.com',
-    iosClientId: '460350402939-qim41udo3o2tnl167mepq6np8thr52r9.apps.googleusercontent.com',
+    iosClientId:
+        '460350402939-qim41udo3o2tnl167mepq6np8thr52r9.apps.googleusercontent.com',
     iosBundleId: 'com.example.gosraApp',
   );
 }
