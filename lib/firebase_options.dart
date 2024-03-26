@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAqsa7BrPzYsbVlFMghYK5h256LkjINrKQ',
+    apiKey: dotenv.env['APIKEY'],
     appId: '1:460350402939:web:fc1e6320cb97a25d384dde',
     messagingSenderId: '460350402939',
     projectId: 'gosra-app',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAVCFws2sJeU2CYcOTWNAWI3n8o5JoDXIA',
+    apiKey: dotenv.env['APIKEY'],
     appId: '1:460350402939:android:2d08894c73f4792b384dde',
     messagingSenderId: '460350402939',
     projectId: 'gosra-app',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC5ZvW53tXBLXiflkXEXYbHh1O9PSFDgsE',
+    apiKey: dotenv.env['APIKEY'],
     appId: '1:460350402939:ios:7ed5bbc33894ec4f384dde',
     messagingSenderId: '460350402939',
     projectId: 'gosra-app',
@@ -73,7 +73,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC5ZvW53tXBLXiflkXEXYbHh1O9PSFDgsE',
+    apiKey: dotenv.env['APIKEY'],
     appId: '1:460350402939:ios:7ed5bbc33894ec4f384dde',
     messagingSenderId: '460350402939',
     projectId: 'gosra-app',
