@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "460350402939",
+    "project_id": "gosra-app",
+    "storage_bucket": "gosra-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460350402939:android:2d08894c73f4792b384dde",
+        "android_client_info": {
+          "package_name": "com.example.gosra_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460350402939-ipn1j20ds6p70tvm3qnqojma676spopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVCFws2sJeU2CYcOTWNAWI3n8o5JoDXIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460350402939-ipn1j20ds6p70tvm3qnqojma676spopj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460350402939-qim41udo3o2tnl167mepq6np8thr52r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gosraApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
