@@ -1,6 +1,6 @@
 # GosraApp - Your Group Chat Application
 
-Chatify is a mobile application designed to facilitate group communication in real-time.
+GosraApp is a mobile application designed to facilitate group communication in real-time.
 
 ## Features
 
